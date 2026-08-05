@@ -1,0 +1,9 @@
+asset_id,asset_name,expected_return,volatility,sector
+0,Asset_1,0.1062,0.125,Technology
+1,Asset_2,0.1926,0.21,Energy
+2,Asset_3,0.1598,0.168,Healthcare
+3,Asset_4,0.1398,0.145,Financials
+4,Asset_5,0.0734,0.089,Consumer Staples
+5,Asset_6,0.0734,0.082,Utilities
+6,Asset_7,0.0587,0.065,Government Bonds
+7,Asset_8,0.1799,0.195,Real Estate
